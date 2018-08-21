@@ -20,7 +20,7 @@ export const name = 'core/half-media';
 export const settings = {
 	title: __( 'Half Media' ),
 
-	icon: <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M0,0h24v24H0V0z" fill="none" /><rect x="11" y="7" width="6" height="2" /><rect x="11" y="11" width="6" height="2" /><rect x="11" y="15" width="6" height="2" /><rect x="7" y="7" width="2" height="2" /><rect x="7" y="11" width="2" height="2" /><rect x="7" y="15" width="2" height="2" /><path d="M20.1,3H3.9C3.4,3,3,3.4,3,3.9v16.2C3,20.5,3.4,21,3.9,21h16.2c0.4,0,0.9-0.5,0.9-0.9V3.9C21,3.4,20.5,3,20.1,3z M19,19H5V5h14V19z" /></svg>,
+	icon: <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M0,0h24v24H0V0z" fill="none" /><rect x="3" y="13" width="8" height="2" /><rect x="3" y="17" width="8" height="2" /><rect x="3" y="9" width="8" height="2" /><rect x="3" y="5" width="8" height="2" /><path d="m19 7v10h-4v-10h4m2-2h-8v14h8v-14z" /></svg>,
 
 	category: 'layout',
 
